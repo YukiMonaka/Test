@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\test",
+    "\\test\\src",
+    "\\test\\src\\assets",
+    "\\test\\src\\assets\\styles",
+    "\\test\\src\\pages",
+    "\\test\\src\\pages\\home",
+    "\\test\\src\\router"
+  ],
+  "SelectedNode": "\\test\\src\\router\\index.js",
+  "PreviewInSolutionExplorer": false
+}
