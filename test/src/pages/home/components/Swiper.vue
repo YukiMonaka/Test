@@ -45,15 +45,19 @@
 </script>
 
 <style lang='stylus' scoped>
-  .wrapper > > > .swiper-pagination-bullet-active
-  background: #fff
-  //实现.wrapper对.swiper-pagination-bullet-active的样式穿透
+  .wrapper >>> .swiper-pagination-bullet-active
+  {background: #fff;}
+  
+  /*实现.wrapper对.swiper-pagination-bullet-active的样式穿透*/
   .wrapper
-  overflow: hidden
-  width: 100%
-  height: 0
-  padding-bottom: 26.66%
-  // .wrapper实现按比例占位
-  .swiper-img
-  width: 100%
+  {
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    padding-bottom: 26.66%;
+  }
+ 
+  /*.wrapper实现按比例占位*/
+  .swiper-img{width: 100%;}
+  
 </style>
