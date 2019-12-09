@@ -3,12 +3,13 @@
     "",
     "\\test",
     "\\test\\src",
-    "\\test\\src\\assets",
-    "\\test\\src\\assets\\styles",
     "\\test\\src\\pages",
+    "\\test\\src\\pages\\city",
+    "\\test\\src\\pages\\city\\components",
     "\\test\\src\\pages\\home",
+    "\\test\\src\\pages\\home\\components",
     "\\test\\src\\router"
   ],
-  "SelectedNode": "\\test\\src\\router\\index.js",
+  "SelectedNode": "\\test\\src\\pages\\home\\components\\Swiper.vue",
   "PreviewInSolutionExplorer": false
 }
