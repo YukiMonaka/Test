@@ -11,7 +11,7 @@
       <div class="header-right">
         {{this.city}}
         <!-- 传入城市的名称 -->
-        <span class="iconfont arrow-icon">&#xe6aa;</span>
+        <span class="iconfont arrow-icon">&#xe678;</span>
       </div>
     </router-link>
   </div>
